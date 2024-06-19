@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T02:36:26.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="bKCbTIpevwLxIOb05NlL" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T02:42:59.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="XP7LBNJIJBg8-3F8fBJS" version="24.5.5" type="github">
   <diagram name="Page-1" id="4uaIdqZoWXqLpEbhsFv2">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -25,8 +25,8 @@
         <mxCell id="6IjlLScEP0voYy3FaOqI-8" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rotation=40;" vertex="1" parent="1">
           <mxGeometry x="46.49" y="514.64" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6IjlLScEP0voYy3FaOqI-9" value="&lt;span style=&quot;background-color: rgb(102, 255, 255);&quot;&gt;The Database checks True of False When Adding Product Item&quot;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="574.64" width="360" height="30" as="geometry" />
+        <mxCell id="6IjlLScEP0voYy3FaOqI-9" value="&lt;span style=&quot;background-color: rgb(102, 255, 255);&quot;&gt;The Program need to check True or False While Adding Product Item&quot;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="574.64" width="390" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
