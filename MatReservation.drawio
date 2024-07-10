@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T07:43:02.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-vIIhOsmJGWc6nwZXaNx" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T07:45:07.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="rHZ8-I79txClonFZMqhM" version="24.6.4" type="github">
   <diagram name="Page-1" id="wONtj9fE32yLhLCyFKd6">
     <mxGraphModel dx="2534" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="-1100" y="80" width="1073.6" height="160" as="geometry" />
         </mxCell>
         <mxCell id="X4vXFXuKC3ZYve2AUPkK-5" value="When the production line requests material, PSA records the related information In Excel.&amp;nbsp;&lt;div&gt;One specific material may be delivered several times&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
-          <mxGeometry x="-1095" y="290" width="500" height="40" as="geometry" />
+          <mxGeometry x="-550" y="250" width="500" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X4vXFXuKC3ZYve2AUPkK-6" value="For one specific raw material, when it is requested and reserved&amp;nbsp;by &#39;Production Line A,&#39;&amp;nbsp;&lt;div&gt;And it should not be consumed by &#39;Production Line B.&#39;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="-1080" y="430" width="490" height="40" as="geometry" />
