@@ -104,7 +104,7 @@
           <mxGeometry x="580" y="155" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m7emvCVi8ajdkUQvUYZP-53" value="生产计划人员判断库存情况，对销售订单的需求做拆解，对需要生产的订单&#xa;结合车间的人机料来制定生产计划，对生产计划做排程" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="10" y="670" width="430" height="50" as="geometry" />
+          <mxGeometry x="10" y="670" width="430" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
