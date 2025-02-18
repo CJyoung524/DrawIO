@@ -853,6 +853,12 @@
         <mxCell id="n_M8RSwxP6jwaydVt314-13" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;p&gt;there are multiple way:&amp;nbsp;&lt;/p&gt;&lt;p&gt;a) handle the Rework by SAP, by adding the rework operation to the specific PO&#39;s routing which will be synchronized with MES. In this case operations are consistent in bothsystems.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;b) MES Rework feature (Core) allows the predefinition of rework flows in MES as an addtion to the imported SAP routing. In case a rework is triggered then the execution of it is happening in MES.&lt;/p&gt;&lt;p&gt;This Core feature has multiple modes, configurable.&amp;nbsp;&lt;/p&gt;&lt;p&gt;By using it, MES execution flow will be slightly different form the SAP routing due to the Rework flow added &amp;nbsp;&lt;/p&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-41" y="10050" width="560" height="240" as="geometry" />
         </mxCell>
+        <mxCell id="n_M8RSwxP6jwaydVt314-14" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Web&amp;quot;, sans-serif; font-size: 14px; white-space: pre-wrap;&quot;&gt;&lt;p&gt;What is HASH Code in SAP vs MES? is there any link with SAP&lt;/p&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="598" y="9560" width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n_M8RSwxP6jwaydVt314-15" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;p&gt;Not sure that i understand the background of your question.... in general we use Hashing in two places ... 1. in the middleware we use hash to recognize an update to an IDOC, and on MES side, the business logic uses hashes for per operation to quickly and effectively recognize the changes to the flow. Has this answered your question ?&amp;nbsp;&lt;/p&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="9600" width="560" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
