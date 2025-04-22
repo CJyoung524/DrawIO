@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="SAP-MES" id="LYEeIje9SqZyWHTVqlJM">
-    <mxGraphModel dx="1271" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="890" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,6 +198,9 @@
         </mxCell>
         <mxCell id="aC4bHIneP-dO9CCa_mvw-69" value="&lt;span style=&quot;&quot;&gt;SAP PP 的核心职能是 MRP (物料需求计划) 和能力计划 (Capacity Planning)。它会考虑销售订单、预测、现有库存、安全库存、采购提前期等因素，计算出需要生产哪些产品、数量、时间，并生成生产订单&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;opacity=50;size=30;position=0.33;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="251.25" y="240" width="207.5" height="136.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aC4bHIneP-dO9CCa_mvw-70" value="&lt;div&gt;*&amp;nbsp; &amp;nbsp;**SAP PP 就像公司的生产计划部门：** 负责制定整个公司的生产总计划、根据订单和库存计算需要生产什么、什么时候生产、理论上需要多少物料和能力。它看的是整个生产链条和与其他部门（销售、采购、财务）的联动。&lt;/div&gt;&lt;div&gt;*&amp;nbsp; &amp;nbsp;**MES 就像车间主任：** 负责拿到生产计划部门的指令后，将其分解到具体的生产线、机器、工人，指挥现场的操作，实时跟踪生产进度、物料消耗、设备状态，并把实际情况反馈给计划部门。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="74" y="970" width="1220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
