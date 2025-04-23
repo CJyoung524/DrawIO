@@ -224,7 +224,7 @@
           <mxGeometry x="878.5" y="509.5" width="61" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AV-T7ivkpBCSLv4Ltf37-1" value="&lt;div&gt;SAP PP 与 MES 的交互总结在 PP 流程中：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SAP PP (计划) 生成生产订单 -&amp;gt; SAP PP 下达生产订单 -&amp;gt; 接口 1.1 (生产订单下载) -&amp;gt; MES 接收订单，开始车间执行。&lt;/div&gt;&lt;div&gt;(ProductionOrder包含工艺Flow、工步Step、BOM)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MES 管理物料消耗 -&amp;gt; 接口 2.2 (物料移动上报 - 261) -&amp;gt; SAP PP/MM 更新库存和订单消耗。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MES 管理生产过程和报工 -&amp;gt; 接口 2.1 (生产确认/报工上报) -&amp;gt; SAP PP 更新订单状态、数量、时间和活动；触发倒冲物料消耗。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MES 完成生产并入库 -&amp;gt; 接口 2.2 (物料移动上报 - 101) -&amp;gt; SAP PP/MM 更新成品库存；SAP PP 更新订单状态。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="22" y="740" width="700" height="190" as="geometry" />
+          <mxGeometry x="22" y="750" width="700" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
