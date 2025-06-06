@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.4">
   <diagram name="采购管理" id="mpOXpmmLFO7AId_gfZCV">
-    <mxGraphModel dx="1418" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="537" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-1" value="采购计划(Purchase Planning)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-2" value="采购询价(Requests for Price Quotes, RFQs)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="130" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-4" value="采购订单(Purchase Orders)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="200" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-9" value="采购到货(Receipt of Goods)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="200" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-10" value="采购（暂估）入库 (Goods Receiving Voucher, GRV / Estimated Goods Receipt)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="370" width="200" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-11" value="采购结算(Purchase Settlement / Accounts Payable Settlement)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="460" width="200" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-12" value="采购退货/换货 (Returns of Goods)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="370" width="200" height="54" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
