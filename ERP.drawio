@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.4">
   <diagram name="采购管理" id="mpOXpmmLFO7AId_gfZCV">
-    <mxGraphModel dx="1182" dy="2595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="906" dy="2450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,17 +73,20 @@
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-35" value="WorkOrder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="150" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8VvXhbn4Lma_j9oY6vWO-36" value="Purchase Demand" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="150" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="8VvXhbn4Lma_j9oY6vWO-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.76;dx=22.67;notch=0;fillColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="890" y="165" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="8VvXhbn4Lma_j9oY6vWO-38" value="Send" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="885" y="142" width="60" height="30" as="geometry" />
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-36" value="Purchase Demand:PD25S00021&lt;div&gt;[Status Authorize]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="150" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-39" value="SRM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="150" width="100" height="40" as="geometry" />
+          <mxGeometry x="1070" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-43" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="980" y="142" width="60" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.76;dx=22.67;notch=0;fillColor=#1A1A1A;" vertex="1" parent="8VvXhbn4Lma_j9oY6vWO-43">
+          <mxGeometry x="5" y="23" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-38" value="Send" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8VvXhbn4Lma_j9oY6vWO-43">
+          <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
