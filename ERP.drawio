@@ -154,8 +154,8 @@
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-69" value="QA" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="803.26" y="650" width="73.37" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8VvXhbn4Lma_j9oY6vWO-70" value="（Quality Assurance &amp;gt; Laboratory &amp;gt; Laboratory Release）&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="890" y="650" width="340" height="30" as="geometry" />
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-70" value="（Inventory &amp;gt; Quality Assurance &amp;gt; Laboratory &amp;gt; Laboratory Release）&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="860" y="650" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-71" value="收完货1号仓，检验完之后(hold to goods)，&lt;div&gt;仓库会做物料调拨，可能调拨到仓库的Main主仓或者PD产线的线边仓&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="875" y="705" width="390" height="40" as="geometry" />
@@ -179,7 +179,7 @@
           <mxGeometry x="854" y="465" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-tq-Yu4QPnls8kOH72EO-5" value="改PO的Due Day ：Purchasing &amp;gt; Purchase Orders &amp;gt; Revisions for Authorised Orders" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="990" y="613" width="470" height="30" as="geometry" />
+          <mxGeometry x="980" y="597" width="470" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
