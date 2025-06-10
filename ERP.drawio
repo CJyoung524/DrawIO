@@ -1,53 +1,53 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.4">
   <diagram name="采购管理" id="mpOXpmmLFO7AId_gfZCV">
-    <mxGraphModel dx="1157" dy="2595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="2833" dy="2873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-1" value="采购计划(Purchase Planning)&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="40" width="200" height="50" as="geometry" />
+          <mxGeometry x="151" y="40" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-2" value="采购询价(Requests for Price Quotes, RFQs)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="328.25" y="280" width="200" height="50" as="geometry" />
+          <mxGeometry x="149.25" y="280" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-4" value="采购订单(Purchase Orders)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="328.25" y="390" width="200" height="54" as="geometry" />
+          <mxGeometry x="149.25" y="390" width="200" height="54" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-9" value="采购到货(Receipt of Goods)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="328.25" y="505" width="200" height="54" as="geometry" />
+          <mxGeometry x="149.25" y="505" width="200" height="54" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-10" value="采购（暂估）入库 (Goods Receiving Voucher, GRV / Estimated Goods Receipt)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="328.25" y="627" width="200" height="54" as="geometry" />
+          <mxGeometry x="149.25" y="627" width="200" height="54" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-11" value="采购结算(Purchase Settlement / Accounts Payable Settlement)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="328.25" y="740" width="200" height="54" as="geometry" />
+          <mxGeometry x="149.25" y="740" width="200" height="54" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-12" value="采购退货/换货 (Returns of Goods)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="598.25" y="626" width="200" height="54" as="geometry" />
+          <mxGeometry x="419.25" y="626" width="81.75" height="54" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-13" value="请购单 (Purchase Requisitions)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="78.25" y="280" width="180" height="50" as="geometry" />
+          <mxGeometry x="-100.75" y="280" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.76;dx=22.67;notch=0;fillColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="265.25" y="295" width="50" height="20" as="geometry" />
+          <mxGeometry x="86.25" y="295" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.76;dx=22.67;notch=0;fillColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="538.25" y="643" width="50" height="20" as="geometry" />
+          <mxGeometry x="359.25" y="643" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.76;dx=22.67;notch=0;fillColor=#1A1A1A;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="344.38" y="170.63" width="171.25" height="20" as="geometry" />
+          <mxGeometry x="165.38" y="170.63" width="171.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.76;dx=22.67;notch=0;fillColor=#1A1A1A;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="403.25" y="350" width="50" height="20" as="geometry" />
+          <mxGeometry x="224.25" y="350" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.76;dx=22.67;notch=0;fillColor=#1A1A1A;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="403.25" y="465" width="50" height="20" as="geometry" />
+          <mxGeometry x="224.25" y="465" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-24" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.76;dx=22.67;notch=0;fillColor=#1A1A1A;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="403.25" y="580" width="50" height="20" as="geometry" />
+          <mxGeometry x="224.25" y="580" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.76;dx=22.67;notch=0;fillColor=#1A1A1A;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="403.25" y="700" width="50" height="20" as="geometry" />
+          <mxGeometry x="224.25" y="700" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-26" value="WH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="93.25" y="942" width="120" height="60" as="geometry" />
@@ -110,13 +110,13 @@
           <mxGeometry x="740" y="232" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-55" value="采购订单(Purchase Orders)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="740" y="358" width="200" height="54" as="geometry" />
+          <mxGeometry x="774" y="358" width="200" height="54" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-56" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.76;dx=22.67;notch=0;fillColor=#1A1A1A;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="765.63" y="297" width="80" height="20" as="geometry" />
+          <mxGeometry x="796.63" y="297" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-57" value="Open Purchase Order for Doc." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="800" y="287" width="190" height="30" as="geometry" />
+          <mxGeometry x="834" y="287" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-60" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -135,6 +135,36 @@
             <mxPoint x="729" y="148" as="sourcePoint" />
             <mxPoint x="729" y="178" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-63" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.76;dx=22.67;notch=0;fillColor=#1A1A1A;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="798.25" y="454" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-64" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Authorization&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="850" y="444" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-65" value="Goods Receiving Vouchers WH" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="774" y="510" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-66" value="&amp;nbsp;收货时可以收多个PO，单个PO里面的若干个Line(line行号)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="974" y="522" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-67" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.76;dx=22.67;notch=0;fillColor=#1A1A1A;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="798.25" y="590" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-69" value="QA" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="803.26" y="650" width="73.37" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-70" value="（Quality Assurance &amp;gt; Laboratory &amp;gt; Laboratory Release）&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="890" y="650" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-71" value="收完货1号仓，检验完之后(hold to goods)，&lt;div&gt;仓库会做物料调拨，可能调拨到仓库的Main主仓或者PD产线的线边仓&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="875" y="705" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-72" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.76;dx=22.67;notch=0;fillColor=#1A1A1A;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="805" y="715" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-73" value="调拨" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="805" y="770" width="73.37" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
