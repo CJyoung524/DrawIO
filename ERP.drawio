@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="采购管理" id="mpOXpmmLFO7AId_gfZCV">
-    <mxGraphModel dx="1978" dy="2450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="2387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,22 +166,22 @@
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-73" value="调拨" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="805" y="770" width="73.37" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-tq-Yu4QPnls8kOH72EO-1" value="不需要的原材料 Enable Do Not Open Order" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="910" y="240" width="260" height="30" as="geometry" />
+        <mxCell id="-tq-Yu4QPnls8kOH72EO-1" value="不需要的原材料 Enable&lt;span style=&quot;color: rgb(184, 191, 198); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 16px; orphans: 4; text-align: left; white-space: pre-wrap; background-color: rgb(54, 59, 64);&quot;&gt;✅&lt;/span&gt;&amp;nbsp;Do Not Open Order" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="900" y="240" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-tq-Yu4QPnls8kOH72EO-2" value="注意Buyer、Vendor for PR、PreferredVendor、EstimatedUnitPrice" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="-tq-Yu4QPnls8kOH72EO-2" value="注意Buyer、Vendor for PR、PreferredVendor、EstimatedUnitPrice" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="850" y="280" width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-tq-Yu4QPnls8kOH72EO-3" value="Inventory &amp;gt; Inventory Transactions &amp;gt; Purchase Inventory Transactions &amp;gt; Goods Receiving Vouchers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="-tq-Yu4QPnls8kOH72EO-3" value="Inventory &amp;gt; Inventory Transactions &amp;gt; Purchase Inventory Transactions &amp;gt; Goods Receiving Vouchers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="980" y="505" width="550" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-tq-Yu4QPnls8kOH72EO-4" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Open Goods Receiving Voucher&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="854" y="465" width="240" height="30" as="geometry" />
+        <mxCell id="-tq-Yu4QPnls8kOH72EO-4" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;（仅测试用button） Open Goods Receiving Voucher&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="839" y="465" width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-tq-Yu4QPnls8kOH72EO-5" value="改PO的Due Day ：Purchasing &amp;gt; Purchase Orders &amp;gt; Revisions for Authorised Orders" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="-tq-Yu4QPnls8kOH72EO-5" value="改PO的Due Day ：Purchasing &amp;gt; Purchase Orders &amp;gt; Revisions for Authorised Orders" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="980" y="597" width="470" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-tq-Yu4QPnls8kOH72EO-6" value="Inventory &amp;gt; Inventory Transactions &amp;gt; Warehouse Inventory Transactions &amp;gt; Warehouse Transfer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="-tq-Yu4QPnls8kOH72EO-6" value="Inventory &amp;gt; Inventory Transactions &amp;gt; Warehouse Inventory Transactions &amp;gt; Warehouse Transfer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="890" y="770" width="530" height="30" as="geometry" />
         </mxCell>
       </root>
