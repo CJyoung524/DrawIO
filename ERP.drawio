@@ -181,6 +181,9 @@
         <mxCell id="-tq-Yu4QPnls8kOH72EO-5" value="改PO的Due Day ：Purchasing &amp;gt; Purchase Orders &amp;gt; Revisions for Authorised Orders" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="980" y="597" width="470" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-tq-Yu4QPnls8kOH72EO-6" value="Inventory &amp;gt; Inventory Transactions &amp;gt; Warehouse Inventory Transactions &amp;gt; Warehouse Transfer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="890" y="770" width="530" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
