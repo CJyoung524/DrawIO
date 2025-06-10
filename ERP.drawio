@@ -145,8 +145,8 @@
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-65" value="Goods Receiving Vouchers WH" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="774" y="510" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8VvXhbn4Lma_j9oY6vWO-66" value="在这个界面下New一张GRV收货单来收料&amp;nbsp;&lt;div&gt;收货时可以收多个PO{Purchase Order for GRV}，&lt;/div&gt;&lt;div&gt;单个PO里面的若干个Line(line行号) {choose order items}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="990" y="530" width="320" height="60" as="geometry" />
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-66" value="在这个界面下New一张GRV收货单来收料&amp;nbsp;&lt;div&gt;收货时可以收多个PO{Purchase Order for GRV}，&lt;/div&gt;&lt;div&gt;单个PO里面的若干个Line(line行号) {choose order items}&lt;/div&gt;&lt;div&gt;在GRV的Received Items里将每一项料做Hold-&amp;gt;Goods时，为了防止来料堆积，限制PO的Due Day不能超过当前时间5天以上&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="990" y="525" width="680" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-67" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.76;dx=22.67;notch=0;fillColor=#1A1A1A;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="798.25" y="590" width="80" height="20" as="geometry" />
@@ -177,6 +177,9 @@
         </mxCell>
         <mxCell id="-tq-Yu4QPnls8kOH72EO-4" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Open Goods Receiving Voucher&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="854" y="465" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-tq-Yu4QPnls8kOH72EO-5" value="改PO的Due Day ：Purchasing &amp;gt; Purchase Orders &amp;gt; Revisions for Authorised Orders" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="990" y="613" width="470" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
