@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.4">
   <diagram name="采购管理" id="mpOXpmmLFO7AId_gfZCV">
-    <mxGraphModel dx="1546" dy="2730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1288" dy="2595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           <mxGeometry x="538.25" y="643" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.76;dx=22.67;notch=0;fillColor=#1A1A1A;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="368.75" y="146.25" width="122.5" height="20" as="geometry" />
+          <mxGeometry x="344.38" y="170.63" width="171.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.76;dx=22.67;notch=0;fillColor=#1A1A1A;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="403.25" y="350" width="50" height="20" as="geometry" />
