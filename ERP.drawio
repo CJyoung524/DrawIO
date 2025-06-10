@@ -146,7 +146,7 @@
           <mxGeometry x="774" y="510" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-66" value="&amp;nbsp;收货时可以收多个PO，单个PO里面的若干个Line(line行号)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="980" y="520" width="340" height="30" as="geometry" />
+          <mxGeometry x="974" y="529" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-67" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.76;dx=22.67;notch=0;fillColor=#1A1A1A;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="798.25" y="590" width="80" height="20" as="geometry" />
@@ -171,6 +171,9 @@
         </mxCell>
         <mxCell id="-tq-Yu4QPnls8kOH72EO-2" value="注意Buyer、Vendor for PR、PreferredVendor、EstimatedUnitPrice" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="850" y="280" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-tq-Yu4QPnls8kOH72EO-3" value="Inventory &amp;gt; Inventory Transactions &amp;gt; Purchase Inventory Transactions &amp;gt; Goods Receiving Vouchers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="974" y="505" width="550" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
