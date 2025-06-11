@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.4">
   <diagram name="采购管理" id="mpOXpmmLFO7AId_gfZCV">
-    <mxGraphModel dx="2618" dy="2730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1978" dy="2450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,6 +91,9 @@
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-44" value="F11 根据PartNum去查，注意创建/查询的区别&lt;div&gt;Q250603490&lt;/div&gt;&lt;div&gt;[Status Release]&lt;/div&gt;&lt;div&gt;[Check Kit List in WO]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="505" y="241" width="180" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="r8p5RWdRoPDKXd5qdTjZ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8VvXhbn4Lma_j9oY6vWO-46" target="8VvXhbn4Lma_j9oY6vWO-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-46" value="testPart_CJ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="-110" width="140" height="20" as="geometry" />
         </mxCell>
@@ -104,7 +107,7 @@
           <mxGeometry x="650" y="-90" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-53" value="VendorNum:A013" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="854" y="-115" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-54" value="Itemised Purchase Requisition" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="232" width="170" height="20" as="geometry" />
@@ -264,6 +267,9 @@
         </mxCell>
         <mxCell id="r8p5RWdRoPDKXd5qdTjZ-22" value="&lt;b&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;line-height: 115%; font-family: Calibri, sans-serif;&quot;&gt;Inventory &amp;gt; Inventory Transactions &amp;gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;line-height: 115%; font-family: Calibri, sans-serif;&quot;&gt;Sales Inventory Transactions &amp;gt; Customer Shipments.&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="490" y="810" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r8p5RWdRoPDKXd5qdTjZ-24" value="Pref.Vendor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=8;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="785" y="-127" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
