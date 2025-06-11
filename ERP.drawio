@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.4">
   <diagram name="采购管理" id="mpOXpmmLFO7AId_gfZCV">
-    <mxGraphModel dx="1737" dy="2286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1978" dy="2450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,8 +88,8 @@
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-38" value="Send" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="8VvXhbn4Lma_j9oY6vWO-43" vertex="1">
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8VvXhbn4Lma_j9oY6vWO-44" value="F11 根据PartNum去查，注意创建/查询的区别&lt;div&gt;Q250603490&lt;/div&gt;&lt;div&gt;[Status Release]&lt;/div&gt;&lt;div&gt;[Check Kit List in WO]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="505" y="232" width="180" height="46" as="geometry" />
+        <mxCell id="8VvXhbn4Lma_j9oY6vWO-44" value="F11 根据PartNum去查，注意创建/查询的区别&lt;div&gt;Q250603490&lt;/div&gt;&lt;div&gt;[Status Release]&lt;/div&gt;&lt;div&gt;[Check Kit List in WO]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="505" y="241" width="180" height="56" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-46" value="testPart_CJ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="-110" width="140" height="20" as="geometry" />
@@ -197,13 +197,34 @@
           <mxGeometry x="1680" y="315" width="1200" height="319" as="geometry" />
         </mxCell>
         <mxCell id="r8p5RWdRoPDKXd5qdTjZ-5" value="Production &amp;gt; Production Control &amp;gt; Work Orders" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="501" y="278" width="190" height="20" as="geometry" />
+          <mxGeometry x="501" y="295" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r8p5RWdRoPDKXd5qdTjZ-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="593" y="297" as="sourcePoint" />
-            <mxPoint x="593" y="327" as="targetPoint" />
+            <mxPoint x="593" y="317" as="sourcePoint" />
+            <mxPoint x="593" y="347" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="r8p5RWdRoPDKXd5qdTjZ-8" value="Issue to kits : issue product" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="350" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r8p5RWdRoPDKXd5qdTjZ-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="593" y="380" as="sourcePoint" />
+            <mxPoint x="593" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r8p5RWdRoPDKXd5qdTjZ-10" value="status change to Production or First Report&lt;div&gt;Production Report&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="409" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r8p5RWdRoPDKXd5qdTjZ-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="593" y="444" as="sourcePoint" />
+            <mxPoint x="593" y="474" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r8p5RWdRoPDKXd5qdTjZ-12" value="&lt;div&gt;在制品WIP状态 转成品FG状态 需要Inspection&lt;/div&gt;Inventory &amp;gt; Quality Assurance &amp;gt; Laboratory &amp;gt; Laboratory Release" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="419.25" y="474" width="370" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
