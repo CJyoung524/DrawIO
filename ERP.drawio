@@ -56,10 +56,10 @@
           <mxGeometry x="85.75" y="1022" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-28" value="PD产线线边仓" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="378.25" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="284.25" y="1022" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-29" value="产线" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="378.25" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="284.25" y="942" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8VvXhbn4Lma_j9oY6vWO-32" value="Purchasing &amp;gt; MRP for Manufacturers &amp;gt; Release Orders for Planning&lt;div&gt;[Status Confirm]&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="40" width="390" height="40" as="geometry" />
