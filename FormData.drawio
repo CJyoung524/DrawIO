@@ -76,6 +76,9 @@
         <mxCell id="b-hAzMssk_Lw5wZIq0I--22" value="&lt;div&gt;SELECT&lt;/div&gt;&lt;div&gt;COUNTRYNAME,&lt;/div&gt;&lt;div&gt;COUNTRYCODE&lt;/div&gt;&lt;div&gt;FROM&lt;/div&gt;&lt;div&gt;COUNTRIES,QSRJ_PARTORIGINCOUNT&lt;/div&gt;&lt;div&gt;WHERE QSRJ_PARTORIGINCOUNT.PART =&amp;nbsp; :$$.PART&lt;/div&gt;&lt;div&gt;AND QSRJ_PARTORIGINCOUNT.COUNTRY = COUNTRIES.COUNTRY FORMAT;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1300" y="70" width="470" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="b-hAzMssk_Lw5wZIq0I--23" value="&lt;div&gt;/*all countries */&lt;/div&gt;&lt;div&gt;SELECT&lt;/div&gt;&lt;div&gt;T.COUNTRYNAME,&lt;/div&gt;&lt;div&gt;T.COUNTRYCODE&lt;/div&gt;&lt;div&gt;FROM&lt;/div&gt;&lt;div&gt;COUNTRIES T&lt;/div&gt;&lt;div&gt;WHERE NOT EXISTS (&lt;/div&gt;&lt;div&gt;SELECT &#39;X&#39;&lt;/div&gt;&lt;div&gt;FROM QSRJ_PARTORIGINCOUNT P&lt;/div&gt;&lt;div&gt;WHERE P.PART = :$$.PART&lt;/div&gt;&lt;div&gt;AND P.COUNTRY = T.COUNTRY&lt;/div&gt;&lt;div&gt;)&lt;/div&gt;&lt;div&gt;ORDER BY 1;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="233" width="230" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
