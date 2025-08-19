@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.0" pages="2">
   <diagram name="采购管理" id="mpOXpmmLFO7AId_gfZCV">
-    <mxGraphModel dx="2048" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="2217" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,8 +208,8 @@
             <mxPoint x="133.75" y="557" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r8p5RWdRoPDKXd5qdTjZ-8" value="Issue to kits : issue product" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="45.75" y="560" width="170" height="30" as="geometry" />
+        <mxCell id="r8p5RWdRoPDKXd5qdTjZ-8" value="Check the Issue Balance in&lt;font style=&quot;color: rgb(255, 153, 204);&quot;&gt; &lt;/font&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Kit List&lt;/font&gt; after&lt;div&gt;Issues Product in &lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Issue to kits&lt;/font&gt;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="10.75" y="555" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r8p5RWdRoPDKXd5qdTjZ-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -217,8 +217,8 @@
             <mxPoint x="133.75" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r8p5RWdRoPDKXd5qdTjZ-10" value="status change to Production or First Report&lt;div&gt;Production Report&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="15.75" y="619" width="250" height="40" as="geometry" />
+        <mxCell id="r8p5RWdRoPDKXd5qdTjZ-10" value="Release status change to Production or First Report&lt;div&gt;and Perform&lt;font color=&quot;#ff3333&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 51, 51), rgb(255, 255, 255));&quot;&gt;Reporting Production.&lt;/font&gt;&lt;/span&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-9.25" y="619" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r8p5RWdRoPDKXd5qdTjZ-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -226,8 +226,8 @@
             <mxPoint x="133.75" y="684" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r8p5RWdRoPDKXd5qdTjZ-12" value="&lt;div&gt;7.11在制品WIP状态 转7.11成品FG状态&lt;/div&gt;&lt;div&gt;（调拨或者直接改完之后再重新报工）&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="25.75" y="684" width="230" height="40" as="geometry" />
+        <mxCell id="r8p5RWdRoPDKXd5qdTjZ-12" value="&lt;div&gt;INSPECTION&amp;nbsp;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Laboratory Release&lt;/font&gt;&lt;/div&gt;&lt;div&gt;7.11在制品WIP状态 转7.11成品FG状态&lt;/div&gt;&lt;div&gt;（调拨或者直接改完之后再重新报工）&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="25.75" y="674" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8p5RWdRoPDKXd5qdTjZ-14" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -235,8 +235,8 @@
             <mxPoint x="133.75" y="753" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r8p5RWdRoPDKXd5qdTjZ-15" value="&lt;span data-teams=&quot;true&quot;&gt;然后再转到3.1仓&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="80.75" y="760" width="110" height="30" as="geometry" />
+        <mxCell id="r8p5RWdRoPDKXd5qdTjZ-15" value="&lt;span data-teams=&quot;true&quot;&gt;然后&amp;nbsp;Warehouse Transfer再转到3.1仓&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="25.75" y="760" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r8p5RWdRoPDKXd5qdTjZ-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
