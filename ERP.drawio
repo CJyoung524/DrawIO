@@ -382,12 +382,6 @@
         <mxCell id="X0PdRghNCQKC37ccCN3L-3" value="Print GRV" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1070.75" y="792" width="159.25" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="X0PdRghNCQKC37ccCN3L-4" value="发料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1150" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="X0PdRghNCQKC37ccCN3L-5" value="Issue to kits" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="155.75" y="1150" width="90" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="X0PdRghNCQKC37ccCN3L-6" value="PMC" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="45.75" y="300" width="25.25" height="50" as="geometry" />
         </mxCell>
