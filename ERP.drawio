@@ -389,7 +389,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lN2BYb7PHUyb0ZGSaygJ" name="生产管理">
-    <mxGraphModel dx="4051" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="2836" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -463,9 +463,7 @@
         <mxCell id="dlB0ch8UiSNrkqEEIC_k-514" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="dlB0ch8UiSNrkqEEIC_k-495" target="dlB0ch8UiSNrkqEEIC_k-487">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1870" y="1805" />
-              <mxPoint x="1486" y="1805" />
-              <mxPoint x="1486" y="1250" />
+              <mxPoint x="1870" y="1250" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -490,42 +488,42 @@
           <mxGeometry x="1670" y="580.0028571428579" width="400" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dlB0ch8UiSNrkqEEIC_k-494" value="当前批次生产完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050EF;fontColor=#FFFFFF;strokeColor=#0027B4;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="470.0028571428579" width="400" height="60" as="geometry" />
+          <mxGeometry x="1670" y="450.0028571428579" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dlB0ch8UiSNrkqEEIC_k-493" value="进行生产" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050EF;fontColor=#FFFFFF;strokeColor=#0027B4;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="305.0028571428579" width="400" height="60" as="geometry" />
+          <mxGeometry x="1670" y="300.0028571428579" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dlB0ch8UiSNrkqEEIC_k-490" value="当前工单发料结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B11100;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="606" y="1670.002857142858" width="800" height="120" as="geometry" />
+          <mxGeometry x="605" y="1740.002857142858" width="800" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="dlB0ch8UiSNrkqEEIC_k-489" value="是否还有&lt;br&gt;未发料批次？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FA6800;fontColor=#FFFFFF;strokeColor=#C75300;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="606" y="1480.002857142858" width="800" height="150" as="geometry" />
+        <mxCell id="dlB0ch8UiSNrkqEEIC_k-489" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;是否还有&lt;br&gt;未发料批次？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#FFFFFF;strokeColor=#C75300;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1490" width="290" height="150" as="geometry" />
         </mxCell>
         <mxCell id="dlB0ch8UiSNrkqEEIC_k-488" value="在ERP中关闭批次&lt;br&gt;(Close Split Kit)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#29B6F6;fontColor=#ffffff;strokeColor=#0088C3;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="606" y="1350.002857142858" width="800" height="80" as="geometry" />
+          <mxGeometry x="606" y="1370.002857142858" width="800" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dlB0ch8UiSNrkqEEIC_k-487" value="接收生产线&lt;br&gt;批次完成通知" style="shape=tapeData;whiteSpace=wrap;html=1;size=0.1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontColor=#333333;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="606" y="1210.002857142858" width="800" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dlB0ch8UiSNrkqEEIC_k-486" value="物料与报告&lt;br&gt;一同交接给生产线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050EF;fontColor=#FFFFFF;strokeColor=#0027B4;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="606" y="1120.002857142858" width="800" height="60" as="geometry" />
+          <mxGeometry x="605" y="1090.002857142858" width="800" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dlB0ch8UiSNrkqEEIC_k-485" value="打印领料报告&lt;br&gt;(Pick List Report)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#FFF2C5;strokeColor=#D6B656;fontColor=#333333;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="950.0028571428579" width="800" height="90" as="geometry" />
+          <mxGeometry x="605" y="930.0028571428579" width="800" height="90" as="geometry" />
         </mxCell>
         <mxCell id="dlB0ch8UiSNrkqEEIC_k-484" value="系统自动计算最小可发数量&lt;br&gt;人工确认/修改实际发料数" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#E1E1E1;fontColor=#333333;strokeColor=#999999;size=15;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="810" width="350" height="80" as="geometry" />
+          <mxGeometry x="1320" y="840" width="350" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dlB0ch8UiSNrkqEEIC_k-483" value="在ERP中执行发料&lt;br&gt;(Issues to Kits)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#29B6F6;fontColor=#ffffff;strokeColor=#0088C3;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="606" y="690.0028571428579" width="800" height="80" as="geometry" />
+          <mxGeometry x="605" y="740.0028571428579" width="800" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dlB0ch8UiSNrkqEEIC_k-482" value="按拣货单到货架拣货" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050EF;fontColor=#FFFFFF;strokeColor=#0027B4;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="606" y="590.0028571428579" width="800" height="60" as="geometry" />
+          <mxGeometry x="810" y="620" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dlB0ch8UiSNrkqEEIC_k-481" value="拆分套件 (Split Kit)&lt;br&gt;设定发料批次" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050EF;fontColor=#FFFFFF;strokeColor=#0027B4;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="606" y="510.0028571428579" width="800" height="60" as="geometry" />
+          <mxGeometry x="810" y="510" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dlB0ch8UiSNrkqEEIC_k-476" value="检查物料齐套性&lt;br&gt;及优先级？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FA6800;fontColor=#FFFFFF;strokeColor=#C75300;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="dlB0ch8UiSNrkqEEIC_k-476" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;检查物料齐套性&lt;br&gt;及优先级？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#FFFFFF;strokeColor=#C75300;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="70" y="470.0028571428579" width="400" height="150" as="geometry" />
         </mxCell>
         <mxCell id="dlB0ch8UiSNrkqEEIC_k-475" value="生成 “计划工单”" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFF2C5;strokeColor=#D6B656;fontColor=#333333;fontSize=16;" vertex="1" parent="1">
@@ -534,11 +532,14 @@
         <mxCell id="dlB0ch8UiSNrkqEEIC_k-474" value="运行 MRP &lt;br&gt;(物料需求计划)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050EF;fontColor=#FFFFFF;strokeColor=#0027B4;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="70" y="260.0028571428579" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dlB0ch8UiSNrkqEEIC_k-480" value="&lt;font style=&quot;color: rgb(26, 26, 26);&quot;&gt;工单数量是否&lt;br&gt;需要分批？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FA6800;fontColor=#FFFFFF;strokeColor=#C75300;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="340" width="370" height="110" as="geometry" />
+        <mxCell id="dlB0ch8UiSNrkqEEIC_k-519" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dlB0ch8UiSNrkqEEIC_k-480" target="dlB0ch8UiSNrkqEEIC_k-481">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dlB0ch8UiSNrkqEEIC_k-480" value="&lt;font style=&quot;color: rgb(26, 26, 26);&quot;&gt;工单数量是否&lt;br&gt;需要分批？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#FFFFFF;strokeColor=#C75300;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="365" width="370" height="110" as="geometry" />
         </mxCell>
         <mxCell id="dlB0ch8UiSNrkqEEIC_k-479" value="在ERP中查找工单，&lt;br&gt;打印 “套件清单”&lt;br&gt;(Kit List / 拣货单)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#FFF2C5;strokeColor=#D6B656;fontColor=#333333;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="606" y="220.00285714285792" width="800" height="90" as="geometry" />
+          <mxGeometry x="790" y="230" width="430" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
