@@ -556,7 +556,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4_ArAyfiC6bBBBs2HTyP" name="月结逻辑">
-    <mxGraphModel dx="4036" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="3563" dy="1350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -807,10 +807,10 @@
           <mxGeometry x="-268" y="920" width="560" height="340" as="geometry" />
         </mxCell>
         <mxCell id="RuPIV6BDNZ14kSCnJ_cg-109" value="Phase 1: Operations Cut-off / 业务清场" style="whiteSpace=wrap;strokeWidth=2;align=right;verticalAlign=top;fontSize=19;labelBackgroundColor=#E6D0DE;" vertex="1" parent="1">
-          <mxGeometry x="-268" y="45" width="760" height="855" as="geometry" />
+          <mxGeometry x="-268" y="30" width="760" height="870" as="geometry" />
         </mxCell>
         <mxCell id="RuPIV6BDNZ14kSCnJ_cg-110" value="1.1 检查未结单据&#xa;Check Pending Docs" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-25" y="45" width="171" height="78" as="geometry" />
+          <mxGeometry x="-23" y="45" width="171" height="78" as="geometry" />
         </mxCell>
         <mxCell id="RuPIV6BDNZ14kSCnJ_cg-111" value="单据全Final了吗?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-27" y="160" width="175" height="175" as="geometry" />
