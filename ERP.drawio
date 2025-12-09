@@ -556,7 +556,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4_ArAyfiC6bBBBs2HTyP" name="月结逻辑">
-    <mxGraphModel dx="3563" dy="1350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="4036" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -797,7 +797,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RuPIV6BDNZ14kSCnJ_cg-106" value="Phase 4: Validation &amp; Closing / 验证关账" style="whiteSpace=wrap;strokeWidth=2;align=right;verticalAlign=top;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="RuPIV6BDNZ14kSCnJ_cg-106" value="Phase 4: Validation &amp; Closing / 验证关账" style="whiteSpace=wrap;strokeWidth=2;align=right;verticalAlign=top;fontSize=20;labelBackgroundColor=#E6D0DE;" vertex="1" parent="1">
           <mxGeometry x="-248" y="1696" width="643" height="640" as="geometry" />
         </mxCell>
         <mxCell id="RuPIV6BDNZ14kSCnJ_cg-107" value="Phase 3: System Execution / 系统月结" style="whiteSpace=wrap;strokeWidth=2;align=right;verticalAlign=top;fontSize=19;labelBackgroundColor=#E6D0DE;" vertex="1" parent="1">
@@ -976,7 +976,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RuPIV6BDNZ14kSCnJ_cg-158" value="回滚修正数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.57;rounded=0;exitDx=0;exitDy=0;fontSize=31;" edge="1" parent="1" source="RuPIV6BDNZ14kSCnJ_cg-131" target="RuPIV6BDNZ14kSCnJ_cg-113">
+        <mxCell id="RuPIV6BDNZ14kSCnJ_cg-158" value="回滚修正数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.57;rounded=0;exitDx=0;exitDy=0;fontSize=31;fontColor=#B5739D;" edge="1" parent="1" source="RuPIV6BDNZ14kSCnJ_cg-131" target="RuPIV6BDNZ14kSCnJ_cg-113">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="322" y="2460" />
