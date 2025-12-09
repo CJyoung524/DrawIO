@@ -873,7 +873,7 @@
           <mxGeometry x="-180" y="2106" width="189" height="78" as="geometry" />
         </mxCell>
         <mxCell id="RuPIV6BDNZ14kSCnJ_cg-131" value="删除库存快照&#xa;Delete Last Past Balance" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-114" y="2234" width="206" height="78" as="geometry" />
+          <mxGeometry x="-130" y="2225" width="206" height="78" as="geometry" />
         </mxCell>
         <mxCell id="RuPIV6BDNZ14kSCnJ_cg-132" value="4.2 生成销货成本&#xa;Generate COGS Journal" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="162" y="2106" width="198" height="78" as="geometry" />
@@ -956,7 +956,7 @@
         <mxCell id="RuPIV6BDNZ14kSCnJ_cg-153" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="RuPIV6BDNZ14kSCnJ_cg-123" target="RuPIV6BDNZ14kSCnJ_cg-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RuPIV6BDNZ14kSCnJ_cg-154" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.32;entryY=0.01;rounded=0;fontSize=15;" edge="1" parent="1" source="RuPIV6BDNZ14kSCnJ_cg-127" target="RuPIV6BDNZ14kSCnJ_cg-128">
+        <mxCell id="RuPIV6BDNZ14kSCnJ_cg-154" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.399;entryY=-0.006;rounded=0;fontSize=15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RuPIV6BDNZ14kSCnJ_cg-127" target="RuPIV6BDNZ14kSCnJ_cg-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RuPIV6BDNZ14kSCnJ_cg-155" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;fontSize=15;" edge="1" parent="1" source="RuPIV6BDNZ14kSCnJ_cg-128" target="RuPIV6BDNZ14kSCnJ_cg-129">
@@ -969,20 +969,19 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RuPIV6BDNZ14kSCnJ_cg-157" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.28;entryY=0;rounded=0;fontSize=15;" edge="1" parent="1" source="RuPIV6BDNZ14kSCnJ_cg-130" target="RuPIV6BDNZ14kSCnJ_cg-131">
+        <mxCell id="RuPIV6BDNZ14kSCnJ_cg-157" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;fontSize=15;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RuPIV6BDNZ14kSCnJ_cg-130" target="RuPIV6BDNZ14kSCnJ_cg-131">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-86" y="2209" />
-            </Array>
+            <mxPoint x="-90" y="2220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RuPIV6BDNZ14kSCnJ_cg-158" value="回滚修正数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.57;rounded=0;exitDx=0;exitDy=0;fontSize=31;fontColor=#B5739D;" edge="1" parent="1" source="RuPIV6BDNZ14kSCnJ_cg-131" target="RuPIV6BDNZ14kSCnJ_cg-113">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="RuPIV6BDNZ14kSCnJ_cg-158" value="回滚修正数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.57;rounded=0;exitDx=0;exitDy=0;fontSize=31;fontColor=#1A1A1A;labelBackgroundColor=#67AB9F;" edge="1" parent="1" source="RuPIV6BDNZ14kSCnJ_cg-131" target="RuPIV6BDNZ14kSCnJ_cg-113">
+          <mxGeometry x="0.0338" y="166" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="322" y="2460" />
               <mxPoint x="852" y="1750" />
               <mxPoint x="492" y="480" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RuPIV6BDNZ14kSCnJ_cg-159" value="正常" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.69;entryX=0.5;entryY=0;rounded=0;fontSize=15;" edge="1" parent="1" source="RuPIV6BDNZ14kSCnJ_cg-129" target="RuPIV6BDNZ14kSCnJ_cg-132">
